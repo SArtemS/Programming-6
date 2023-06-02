@@ -10,10 +10,10 @@
 
 #### <a href = https://github.com/SArtemS/Lab6_6> Лабораторная работа №6</a>
 
-#### <a href = https://github.com/SArtemS/Lab6_7> Лабораторная работа №6</a>
+#### <a href = https://github.com/SArtemS/Lab6_7> Лабораторная работа №7</a>
 
-#### <a href = https://github.com/SArtemS/Lab6_8> Лабораторная работа №6</a>
+#### <a href = https://github.com/SArtemS/Lab6_8> Лабораторная работа №8</a>
 
-#### <a href = https://github.com/SArtemS/Lab6_9> Лабораторная работа №6</a>
+#### <a href = https://github.com/SArtemS/Lab6_9> Лабораторная работа №9</a>
 
-#### <a href = https://github.com/SArtemS/Lab6_10> Лабораторная работа №6</a>
+#### <a href = https://github.com/SArtemS/Lab6_10> Лабораторная работа №10</a>

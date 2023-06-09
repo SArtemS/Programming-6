@@ -4,13 +4,13 @@
 
 #### <a href = https://github.com/SArtemS/Lab6_3> Лабораторная работа №3</a>
 
-#### <a href = https://github.com/SArtemS/Lab6_4> Лабораторная работа №4 (редактируется)</a>
+#### <a href = https://github.com/SArtemS/Lab6_4> Лабораторная работа №4</a> (редактируется)
 
-#### <a href = https://github.com/SArtemS/Lab6_5> Лабораторная работа №5 (редактируется)</a>
+#### <a href = https://github.com/SArtemS/Lab6_5> Лабораторная работа №5</a> (редактируется)
 
-#### <a href = https://github.com/SArtemS/Lab6_6> Лабораторная работа №6 (редактируется)</a>
+#### <a href = https://github.com/SArtemS/Lab6_6> Лабораторная работа №6</a> (редактируется)
 
-#### <a href = https://github.com/SArtemS/Lab6_7> Лабораторная работа №7 (редактируется)</a>
+#### <a href = https://github.com/SArtemS/Lab6_7> Лабораторная работа №7</a> (редактируется)
 
 #### <a href = https://github.com/SArtemS/Lab6_8> Лабораторная работа №8</a>
 

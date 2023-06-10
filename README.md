@@ -4,7 +4,7 @@
 
 #### <a href = https://github.com/SArtemS/Lab6_3> Лабораторная работа №3</a>
 
-#### <a href = https://colab.research.google.com/drive/1qIYHEacrMH6VxQvuDL3CPEeKSGLzW_uS?usp> Лабораторная работа №4/5</a> (№5 редактируется)
+#### <a href = https://colab.research.google.com/drive/1qIYHEacrMH6VxQvuDL3CPEeKSGLzW_uS?usp> Лабораторная работа №4/5</a>
 
 #### <a href = https://github.com/SArtemS/Lab6_6> Лабораторная работа №6</a> (редактируется)
 

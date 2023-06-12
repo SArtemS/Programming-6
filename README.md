@@ -8,7 +8,7 @@
 
 #### <a href = https://colab.research.google.com/drive/11oNTW0s8JnZFeSroKUCacS72Zx4zys7u?usp> Лабораторная работа №6</a>
 
-#### <a href = https://colab.research.google.com/drive/1mf_W9nzZ9io5X78RanMOTobSAhXh-kMZ?usp> Лабораторная работа №7</a> (редактируется)
+#### <a href = https://colab.research.google.com/drive/1mf_W9nzZ9io5X78RanMOTobSAhXh-kMZ?usp> Лабораторная работа №7</a>
 
 #### <a href = https://github.com/SArtemS/Lab6_8> Лабораторная работа №8</a>
 
